@@ -5,10 +5,10 @@
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <div class="panel panel-default">
-                <div class="panel-heading">Users Dashboard</div>
+                <div class="panel-heading">Admin Dashboard</div>
 
                 <div class="panel-body">
-                    You are logged in as Strong Users.
+                    You are logged in as Dashboard
                 </div>
             </div>
         </div>
